@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>634641409460-d4rlqlsimpiggtdr173glafq242frtm4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.634641409460-d4rlqlsimpiggtdr173glafq242frtm4</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAlspgREU1MPzkfk3pBTy18NTcFKxveYi8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>634641409460</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ecoHelpers.Eco</string>
+	<key>PROJECT_ID</key>
+	<string>eco-56a6b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eco-56a6b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:634641409460:ios:ba456de5345264e5b77ee1</string>
+	<key>DATABASE_URL</key>
+	<string>https://eco-56a6b.firebaseio.com</string>
+</dict>
+</plist>
